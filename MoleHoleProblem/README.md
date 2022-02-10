@@ -192,3 +192,7 @@ fun main(args : Array<String>) {
     println(mapOfGarden.toString().count { c -> c == holeInGarden })
 }
 ```
+
+## Running from IntelliJ
+
+Open the provided gradle project and add a new configuration. Pass as programm argument the absolute file path to the desired puzzle input.

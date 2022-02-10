@@ -8,8 +8,8 @@ Collection of coding game puzzle solutions. A coding game compatible version wil
 
 ## Medium  
 
--
+- TBD
 
 ## Hard  
 
--
+- TBD
